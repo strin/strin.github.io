@@ -30,3 +30,19 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 # Math
 
 $$E = mc^2$$
+
+How about **convex optimization**?
+
+$$
+\begin{array}{rl}
+\min_{c} & c^\top \Sigma c \\
+\text{s.t.} & c^\top x = 1
+\end{array}
+$$
+
+# Code
+
+```python
+import sys
+sys.path.add('hello)
+```
